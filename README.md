@@ -63,7 +63,13 @@
 
 ---
 
-<p align="center"><sub>© Yakoubi Yamina – Tous droits réservés | All rights reserved | جميع الحقوق محفوظة | 版权所有</sub></p>.Ce projet, son contenu, son code, ses idées et ses visuels sont la propriété exclusive de Yakoubi Yamina.  
-Toute reproduction, diffusion, utilisation, adaptation ou exploitation non autorisée, partielle ou totale,  
-est strictement interdite et poursuivie conformément au Code de la propriété intellectuelle.  
-Version non publique – Dépôt en cours.
+<p align="center"><sub>
+© Yakoubi Yamina – Tous droits réservés | All rights reserved | جميع الحقوق محفوظة | 版权所有  
+Conforme RGPD 🇪🇺 & LPD 🇨🇭 · Hébergement sécurisé en Suisse · Données confidentielles protégées  
+Projet confidentiel – Traçabilité numérique activée – Usage exclusif réservé à l’écosystème CED & PrettyhowQ  
+
+Ce projet, son contenu, son code, ses idées et ses visuels sont la propriété exclusive de Yakoubi Yamina.  
+Toute reproduction, diffusion, extraction, adaptation ou exploitation, totale ou partielle, sans autorisation écrite préalable,  
+est strictement interdite et fera l'objet de poursuites conformément au Code de la propriété intellectuelle.  
+
+📌 Version non publique – Dépôt en cours.
