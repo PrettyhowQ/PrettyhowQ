@@ -3,7 +3,7 @@
  ✨.   </h1>
 
 <p align="center"><strong>« One Word. One Vision. »</strong><br>
-<em>Club Empreinte Digitale & Intelligence Artificielle – The Power of the Heard</em></p>
+<em>Club Empreinte Digitale & Intelligence Artificielle – The Power of the Heart</em></p>
 
 ---
 
