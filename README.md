@@ -1,5 +1,5 @@
 <h1 align="center"# Yakoubi Yamina – Portfolio Global PrettyhowQ™ & CED HalalTech™ –  Je code avec mon coeur. Programo con mi corazón. أَكْتُبُ الشِّفْرَةَ بِقَلْب
- ✨.   </h1>
+ ✨.   
 
 <p align="center"><strong>« One Word. One Vision. »</strong><br>
 <em>Club Empreinte Digitale & Intelligence Artificielle – The Power of the Heart</em></p>
@@ -12,7 +12,7 @@ Il est le résultat de :
 
 ✨hamduli Allah   Aujourd’hui, PrettyhowQ™ voit le jour publiquement.
 Mais en vérité… elle existe en moi depuis toujours. 
----
+--- </h1>
 
 ### ⚙️ Compétences techniques
 
