@@ -1,5 +1,6 @@
-<h1 align="center">✨ Yakoubi Yamina – Développeuse IA & Full Stack. I code with my hearَt                                 Je code avec mon cœur.       Programo con mi corazón.  
-أَكْتُبُ الشِّفْرَةَ بِقَلْبِ
+<h1 align="center">✨# 💜 Yakoubi Yamina – Portfolio Global PrettyhowQ™ & CED HalalTech™– I code with my hearَt
+ Je code avec mon cœur.       Programo con mi corazón.  
+أَكْتُبُ الشِّفْرَةَ بِقَلْب
  ✨.   </h1>
 
 <p align="center"><strong>« One Word. One Vision. »</strong><br>
