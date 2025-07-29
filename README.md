@@ -4,7 +4,15 @@
 
 <p align="center"><strong>« One Word. One Vision. »</strong><br>
 <em>Club Empreinte Digitale & Intelligence Artificielle – The Power of the Heart</em></p>
+🕰️ **Un cheminement de vie**  
+Ce projet n’est pas né hier.  
+Il est le résultat de :
+- 🌱 +20 ans de réflexion éthique et spirituelle (depuis 2000)
+- 🧠 +7 ans de formation technique en autodidacte (depuis 2017)
+- 💡 Une vision croisée entre l’exigence technologique et la profondeur humaine
 
+✨ Aujourd’hui, PrettyhowQ™ voit le jour publiquement.
+Mais en vérité… elle existe en moi depuis toujours. 
 ---
 
 ### ⚙️ Compétences techniques
