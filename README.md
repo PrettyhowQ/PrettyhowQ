@@ -1,18 +1,22 @@
-<h1 align="center"# Yakoubi Yamina – Portfolio Global PrettyhowQ™ & CED HalalTech™ –  Je code avec mon coeur. Programo con mi corazón. أَكْتُبُ الشِّفْرَةَ بِقَلْب
- ✨.   
+<h1 align="center">💜 Yakoubi Yamina – Portfolio Global PrettyhowQ™ & CED HalalTech™</h1>
 
-<p align="center"><strong>« One Word. One Vision. »</strong><br>
-<em>Club Empreinte Digitale & Intelligence Artificielle – The Power of the Heart</em></p>
-🕰️ **Un cheminement de vie**  
-Ce projet n’est pas né hier.  
-Il est le résultat de :
-- 🌱 +20 ans de réflexion éthique et spirituelle (depuis 2000)
-- 🧠 +7 ans de formation technique en autodidacte (depuis 2017)
-- 💡 Une vision croisée entre l’exigence technologique et la profondeur humaine
+<p align="center">
+<em>I code with my heart • Programo con mi corazón • أَكْتُبُ بِقَلْبِي</em>
+</p>
 
-✨hamduli Allah   Aujourd’hui, PrettyhowQ™ voit le jour publiquement.
-Mais en vérité… elle existe en moi depuis toujours. 
---- </h1>
+<p align="center"><strong>« Un mot. Une seule vision. »</strong><br>
+<em>Club Empreinte Digitale & Intelligence Artificielle – Le Pouvoir du Cœur</em></p>
+
+---
+
+### 🌱 Un cheminement de vie  
+Ce projet n’est pas né hier. Il est le fruit de :
+- 🌿 **+20 ans de réflexion éthique et spirituelle**   
+- 🧠 **+7 ans de formation technique en autodidacte**  
+- 💡 Une vision croisée entre l’exigence technologique et la profondeur humaine  
+
+✨ *Hamduli Allah, aujourd’hui, PrettyhowQ™ voit le jour publiquement.*  
+Mais en vérité… elle existait en moi **depuis toujours**.
 
 ### ⚙️ Compétences techniques
 
