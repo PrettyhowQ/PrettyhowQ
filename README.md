@@ -11,7 +11,7 @@ Il est le résultat de :
 - 🧠 +7 ans de formation technique en autodidacte (depuis 2017)
 - 💡 Une vision croisée entre l’exigence technologique et la profondeur humaine
 
-✨ Aujourd’hui, PrettyhowQ™ voit le jour publiquement.
+✨hamduli Allah   Aujourd’hui, PrettyhowQ™ voit le jour publiquement.
 Mais en vérité… elle existe en moi depuis toujours. 
 ---
 
