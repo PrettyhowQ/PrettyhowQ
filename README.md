@@ -1,6 +1,4 @@
-<h1 align="center">✨# 💜 Yakoubi Yamina – Portfolio Global PrettyhowQ™ & CED HalalTech™– I code with my hearَt
- Je code avec mon coeur.       Programo con mi corazón.  
-أَكْتُبُ الشِّفْرَةَ بِقَلْب
+<h1 align="center"# Yakoubi Yamina – Portfolio Global PrettyhowQ™ & CED HalalTech™ –  Je code avec mon coeur. Programo con mi corazón. أَكْتُبُ الشِّفْرَةَ بِقَلْب
  ✨.   </h1>
 
 <p align="center"><strong>« One Word. One Vision. »</strong><br>
