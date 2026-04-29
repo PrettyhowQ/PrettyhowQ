@@ -1,4 +1,74 @@
-<div align="center">
+<# 🇨🇭 Yakoubi Yamina | PrettyhowQ
+### Fondatrice & Architecte @ SwissYakoubiDev | CED HalalTech™
+**Développeuse Full Stack | IA Éthique | Souveraineté Numérique Suisse**
+
+> *"L'innovation technologique n'a de sens que si elle sert l'humain et respecte son Créateur."*
+
+---
+
+## 👋 À propos de moi
+Je suis une ingénieure passionnée par la convergence entre **technologie de pointe** et **valeurs éthiques universelles**. Mon objectif est de bâtir un écosystème numérique souverain, hébergé en Suisse, qui offre des alternatives conformes à l'éthique (Finance Halal, IA responsable, Protection des données) pour la Oumma et l'humanité entière.
+
+🔭 **En ce moment :** Je développe l'écosystème **CED HalalTech™**, une plateforme fintech et éducative complète.
+🌱 **J'apprends :** Les architectures cloud souveraines, l'IA éthique (EURIA™), et la conformité AAOIFI.
+💬 **Discutons :** Finance Islamique, Tech Souveraine, Open Source Éthique.
+📫 **Contactez-moi :** [contact@ced-halaltech.ch](mailto:contact@ced-halaltech.ch)
+
+---
+
+## 🤝 Mes Organisations & Écosystème
+Je dirige et contribue activement à ces 5 organisations, piliers de notre vision :
+
+| Organisation | Focus | Lien |
+| :--- | :--- | :--- |
+| 🏦 **CED HalalTech** | Fintech Islamique, Banque, Takaful | [Voir l'org](https://github.com/CED-HalalTech) |
+| 💻 **SwissYakoubiDev** | Développement Full Stack, Portfolio, R&D | [Voir l'org](https://github.com/SwissYakoubiDev) |
+| 🎓 **Institut Yamina** | Éducation, Formation, Certification | [Voir l'org](https://github.com/Institut-Yamina) *(à créer/liens)* |
+| ☁️ **EuriaHub-CED** | Cloud Éthique, IA Souveraine | [Voir l'org](https://github.com/EuriaHub-CED) *(à créer/liens)* |
+| 🌍 **Club Empreinte Digitale** | Communauté, Impact Social | [Voir l'org](https://github.com/Club-Empreinte-Digitale-CEDHalalTech) |
+
+---
+
+## 🛠️ Stack Technique & Souveraineté
+Mon infrastructure est conçue pour la **sécurité**, la **vie privée** et l'**indépendance**.
+
+*   **🇨🇭 Hébergement :** 100% Suisse chez **Infomaniak** (VPS Cloud, kSuite, kDrive).
+*   **🔒 Confidentialité :** Conformité stricte **RGPD** (UE) et **LPD** (Suisse). Aucune donnée hors Suisse.
+*   **🤖 Intelligence Artificielle :** Modèles éthiques filtrés (EURIA™), inférence locale ou via Infomaniak AI.
+*   **⚙️ DevOps :** Docker, GitHub Actions (CI/CD), Linux, Bash.
+*   **💻 Développement :** JavaScript/TypeScript, Node.js, React, Python.
+
+---
+
+## 🕌 Éthique & Valeurs
+Chaque ligne de code est écrite avec l'intention (*Niyyah*) de servir le bien commun.
+
+*   ✅ **Finance Halal :** Pas de Riba (usure), pas de secteurs illicites.
+*   ✅ **Écologie :** Hébergement vert, optimisation des ressources.
+*   ✅ **Inclusion :** Technologies accessibles à tous, partout dans le monde.
+*   ✅ **Transparence :** Code ouvert et vérifiable quand c'est possible.
+
+---
+
+## 📊 Activité GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrettyhowQ&show_icons=true&theme=mermaid&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyhowQ&layout=compact&theme=mermaid&hide_border=true)
+
+*(Les statistiques ci-dessus sont générées automatiquement)*
+
+---
+
+## 📬 Connectons-nous
+Je suis toujours ouverte aux discussions sur des projets à impact, des partenariats stratégiques (Suisse/Golfe) ou des collaborations techniques.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yamina-yakoubi/) 
+[![Site Web](https://img.shields.io/badge/Site-Portfolio-2ea44f?style=for-the-badge&logo=globe)](https://ced-halaltech.ch)
+[![Email](https://img.shields.io/badge/Email-Contact-d14836?style=for-the-badge&logo=gmail)](mailto:contact@ced-halaltech.ch)
+
+---
+<p align="center">
+  <i>"Qu'Allah mette la Barakah dans chaque ligne de code et dans chaque projet partagé ici."</i>
+</p>div align="center">
 
 # 🇨🇭 Yakoubi Yamina | PrettyhowQ
 ### Fondatrice & Architecte @ SwissYakoubiDev | CED HalalTech™
