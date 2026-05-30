@@ -1,32 +1,40 @@
 # 🇨🇭 Yakoubi Yamina | PrettyhowQ
-
 ### Fondatrice & Architecte @ SwissYakoubiDev | CED HalalTech™
 **Développeuse Full Stack | IA Éthique | Souveraineté Numérique Suisse**
 
 > *"L'innovation technologique n'a de sens que si elle sert l'humain et respecte son Créateur."*
 
-[📧 Email](mailto:direction@ced-halaltech.ch) • [💼 LinkedIn](https://linkedin.com/in/votre-profile) • [🌐 Site Web](https://ced-halaltech.ch)
-
 ---
 
-## 📊 Chiffres Clés de l'Écosystème CED HalalTech™
-
-*L'infrastructure technologique islamique la plus complète au monde.*
+## 📊 L'Écosystème CED HalalTech™
+**L'infrastructure technologique islamique la plus complète au monde.**
 
 | Métrique | Valeur | Impact |
 | :--- | :--- | :--- |
-| **Pages & Modules** | **465+** pages uniques | Couverture totale : Banque, Assurance, Éducation |
-| **Règles Éthiques** | **27 446** règles de Fiqh | Conformité Sharia automatisée dans le code |
-| **Code Source** | **156 000+** lignes | Maturité technique équivalente à une Scale-up |
-| **Langues** | **91** langues (dont 15 dialectes) | Accessibilité mondiale (Oumma & International) |
-| **Souveraineté** | **100% Suisse** (Infomaniak) | Données hébergées à Genève, conforme LPD/RGPD |
+| **Pages & Modules** | `465+` pages uniques | Couverture totale : Banque, Assurance, Éducation |
+| **Règles Éthiques** | `27 446` règles de Fiqh | Conformité Sharia automatisée dans le code |
+| **Code Source** | `156 000+` lignes | Maturité technique équivalente à une Scale-up |
+| **Langues** | `91` langues (dont 15 dialectes) | Accessibilité mondiale (Oumma & International) |
+| **Souveraineté** | `100%` Suisse (Infomaniak) | Données hébergées à Genève, conforme LPD/RGPD |
 
 ---
 
-## 🚀 Projets Phares
+## 🏢 L'Écosystème Institutionnel
+Une architecture organisée en 4 pôles complémentaires pour garantir indépendance et conformité.
+
+| Organisation | Rôle & Mission | Lien |
+| :--- | :--- | :--- |
+| **@SwissYakoubiDev** | 🛡️ **Pôle Technique** : Core Banking, IA, Sécurité & Infrastructure. | [Voir l'org](https://github.com/SwissYakoubiDev) |
+| **@Club-Empreinte-Digitale-CEDHalalTech** | 🤝 **Pôle Communautaire** : Réseau, Partenariats & Déploiement. | [Voir l'org](https://github.com/Club-Empreinte-Digitale-CEDHalalTech) |
+| **@YakoubiYamina-Institute** | 🎓 **Pôle Recherche** : Éthique, Fiqh technologique & Formation. | [Voir l'org](https://github.com/YakoubiYamina-Institute) |
+| **@EuriaHub-CED** | 🌱 **Pôle Innovation** : Incubation de projets éthiques & Souveraineté. | [Voir l'org](https://github.com/EuriaHub-CED) |
+
+---
+
+## 🚀 Projets Phares & Architecture
 
 ### 🏦 CED Core & Club Empreinte
-Le socle technique de la fintech islamique mondiale.
+*Le socle technique de la fintech islamique mondiale.*
 - **CED Bank** : Banque digitale 0% Riba & API Banking Halal.
 - **Al-Aman Takaful** : Assurance islamique conforme AAOIFI.
 - **CED Academy** : Formation à l'IA éthique et responsable.
@@ -35,22 +43,33 @@ Le socle technique de la fintech islamique mondiale.
 🔗 [Voir le dépôt CED Core](https://github.com/SwissYakoubiDev/ced-core)  
 🔗 [Voir l'organisation SwissYakoubiDev](https://github.com/SwissYakoubiDev)
 
-*(Institut Yamina & EuriaHub-CED en cours de création)*
+---
+
+## 🕌 Éthique, Souveraineté & Stack Technique
+
+<div align="center">
+
+| 🇨🇭 Souveraineté | 🔒 Confidentialité | ⚖️ Conformité | 🤖 Éthique |
+| :---: | :---: | :---: | :---: |
+| Hébergé 100% Suisse | RGPD & LPD Stricts | Finance Halal (AAOIFI) | IA Humano-centrée |
+| **Infomaniak** | Genève Data Center | Zéro Riba / Gharar | Transparence Algorithmique |
+
+</div>
+
+**Stack Principale :** `JavaScript` `TypeScript` `Node.js` `React` `Python` `IA Responsible` `Infomaniak kSuite`
 
 ---
 
-## 🕌 Éthique & Souveraineté
-
-![Suisse](https://img.shields.io/badge/Hébergement-100%25%20Suisse-red?logo=swiss)
-![Infomaniak](https://img.shields.io/badge/Partenaire-Infomaniak-orange?logo=linux)
-![RGPD](https://img.shields.io/badge/Conforme-RGPD%20%26%20LPD-green)
-![Finance](https://img.shields.io/badge/Finance-100%25%20Halal-blue)
-
-- 🇨🇭 **Hébergé 100% en Suisse** (Genève)
-- 🔒 **Conforme RGPD & LPD** (Souveraineté des données)
-- ⚖️ **Finance Halal** (Zéro Riba, Zéro Gharar)
-- 🤖 **IA Éthique** (Au service de l'humain)
+## 📬 Contact & Réseaux
+- 📧 **Email Technique** : [swissyakoubidev.ch@ik.me](mailto:swissyakoubidev.ch@ik.me)
+- 📧 **Direction** : direction@ced-halaltech.ch
+- 💼 **LinkedIn** : [Yamina Yakoubi](https://www.linkedin.com/in/yamina-yakoubi/)
+- 🌐 **Site Web** : [ced-halaltech.ch](https://ced-halaltech.ch)
 
 ---
 
-> *"Qu'Allah mette la Barakah dans chaque ligne de code et dans chaque projet partagé ici."*
+<p align="center">
+<em>"Qu'Allah mette la Barakah dans chaque ligne de code et dans chaque projet partagé ici."</em>
+<br>
+<strong>Incha Allah wa bi hawli Allah</strong>
+</p>
