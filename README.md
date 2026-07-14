@@ -1,4 +1,8 @@
 # 🇨🇭 Yakoubi Yamina | PrettyhowQ
+![Swiss Hosted](https://img.shields.io/badge/Hosted-Swiss_Red-red?style=for-the-badge&logo=swiss)
+![Ethical AI](https://img.shields.io/badge/AI-Ethical_Green-green?style=for-the-badge)
+![Compliance](https://img.shields.io/badge/Compliance-LPD%2F RGPD-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-S%C3%A9rie%20A%20Ready-orange?style=for-the-badge)
 ### Fondatrice & Architecte @ SwissYakoubiDev | CED HalalTech™
 **Développeuse Full Stack | IA Éthique | Souveraineté Numérique Suisse**
 
