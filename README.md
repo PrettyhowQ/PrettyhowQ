@@ -65,7 +65,7 @@ Le socle technique de la fintech islamique mondiale, **hébergé et exécuté ex
 
 📧 **Email Technique :** swissyakoubidev.ch@ik.me
 📧 **Direction :** direction@ced-halaltech.ch
-💼 **LinkedIn :** [Yamina Yakoubi](https://linkedin.com/in/yamina-yakoubi) *(À vérifier/ajouter)*
+💼 **LinkedIn :** [Yamina Yakoubi](https://linkedin.com/in/yamina-yakoubi)) 
 🌐 **Site Web :** [ced-halaltech.ch](https://ced-halaltech.ch)
 
 > *"Qu'Allah mette la Barakah dans chaque ligne de code, dans chaque architecture souveraine et dans chaque projet partagé ici. Bi Hawlli Allah."*
