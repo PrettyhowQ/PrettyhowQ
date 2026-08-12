@@ -8,19 +8,6 @@
 ![GitHub License](https://img.shields.io/github/license/Club-Empreinte-Digitale-CEDHalalTech/ced-org-public?label=Licence&color=orange)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Club-Empreinte-Digitale-CEDHalalTech/ced-org-public?style=social)
 
-
-
-
-
-# 🇨🇭 Yakoubi Yamina | PrettyhowQ
-### Fondatrice & Architecte de l'écosystème CED HalalTech™
-**IA Éthique & Souveraineté Numérique | Full Stack | DevOps Souverain**
-
-![GitHub Release](https://img.shields.io/github/v/release/SwissYakoubiDev/ced-core?label=Dernière%20Version&color=27ae60)
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/SwissYakoubiDev/ced-core?label=Activité&color=2980b9)
-![GitHub License](https://img.shields.io/github/license/SwissYakoubiDev/ced-core?label=Licence&color=orange)
-![GitHub Repo stars](https://img.shields.io/github/stars/SwissYakoubiDev/ced-core?style=social)
-
 > *"L'innovation technologique n'a de sens que si elle sert l'humain, respecte son Créateur et préserve son indépendance."*
 
 ---
