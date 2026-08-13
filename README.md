@@ -50,21 +50,21 @@ Le socle technique de la fintech islamique mondiale, **hébergé et exécuté ex
 🔗 *[Lien vers le dépôt CED Core]* | 🔗 *[Lien vers l'organisation SwissYakoubiDev]*
 
 ## 🛡️ Gouvernance & Conformité En Temps Réel
-*Transparence totale sur l'état de la conformité (Audit Interne - Avril 2025)*
+*Mise à jour : 13 août 2026 (Audit Interne)*
 
 Nous privilégions la **réalité opérationnelle** aux promesses marketing. Voici l'état exact de notre conformité pour les investisseurs et partenaires.
 
 | Domaine | Statut | Certification | Prochaine Échéance | Risque |
-| :--- | :---: | :---: | :---: | :---: |
-| **Infrastructure (CED Bank)** | ✅ Conforme | ISO 27001, PCI DSS | Renouvellement (Mar 2025) | 🟢 Faible |
-| **Finance (Al-Aman Takaful)** | ⚠️ En cours | AAOIFI | Validation Dossier (Juin 2025) | 🟡 Moyen |
-| **Données (Marketplace)** | 🔴 Action Requise | RGPD / LPD | Audit Complet (30 Juin 2025) | 🔴 Élevé |
-| **Continuité (TechForAll)** | 🔴 Action Requise | ISO 22301 | Création PRA (15 Avril 2025) | 🔴 Critique |
+| :--- | :---: | :--- | :--- | :---: |
+| **Infrastructure (CED Bank)** | ✅ Conforme | ISO 27001, PCI DSS | Renouvellement (Mar 2027) | 🟢 Faible |
+| **Continuité (TechForAll)** | ✅ **Conforme** | **ISO 22301 (PRA Validé)** | Test de bascule (Jan 2027) | 🟢 **Résolu** |
+| **Finance (Al-Aman Takaful)** | ⚠️ En cours | AAOIFI | Validation Dossier (Oct 2026) | 🟡 Moyen |
+| **Données (Marketplace)** | 🔴 Action Requise | RGPD / LPD | Audit Complet (30 Sept 2026) | 🟠 Élevé |
 
-> **📊 Taux de conformité global : 73%**  
-> *Plan de correction actif : 2 chantiers critiques en cours (RGPD & PRA) avec échéances bloquantes avant Série A.*
+> **📊 Taux de conformité global : 88 %** *(+15% depuis avril 2025)*  
+> *Succès majeur : Le Plan de Reprise d'Activité (PRA) TechForAll a été validé le 13 août 2026. Focus actuel sur la finalisation de l'audit RGPD Marketplace.*
 
-🔗 *[Voir le rapport d'audit détaillé dans le dépôt dashboard-ced-halaltech]*
+🔗 *[Voir le rapport d'audit détaillé et le PRA dans le dépôt dashboard-ced-halaltech]*
 
 ### 🕌 Éthique, Souveraineté & Stack Technique
 
@@ -83,7 +83,7 @@ Nous privilégions la **réalité opérationnelle** aux promesses marketing. Voi
 
 📧 **Email Technique :** swissyakoubidev.ch@ik.me
 📧 **Direction :** direction@ced-halaltech.ch
-💼 **LinkedIn :** [Yamina Yakoubi](https://linkedin.com/in/yamina-yakoubi)) 
+💼 **LinkedIn :** [Yamina Yakoubi](https://linkedin.com/in/yamina-yakoubi) 
 🌐 **Site Web :** [ced-halaltech.ch](https://ced-halaltech.ch)
 
 > *"Qu'Allah mette la Barakah dans chaque ligne de code, dans chaque architecture souveraine et dans chaque projet partagé ici. Bi Hawlli Allah."*
