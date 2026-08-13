@@ -49,6 +49,23 @@ Le socle technique de la fintech islamique mondiale, **hébergé et exécuté ex
 
 🔗 *[Lien vers le dépôt CED Core]* | 🔗 *[Lien vers l'organisation SwissYakoubiDev]*
 
+## 🛡️ Gouvernance & Conformité En Temps Réel
+*Transparence totale sur l'état de la conformité (Audit Interne - Avril 2025)*
+
+Nous privilégions la **réalité opérationnelle** aux promesses marketing. Voici l'état exact de notre conformité pour les investisseurs et partenaires.
+
+| Domaine | Statut | Certification | Prochaine Échéance | Risque |
+| :--- | :---: | :---: | :---: | :---: |
+| **Infrastructure (CED Bank)** | ✅ Conforme | ISO 27001, PCI DSS | Renouvellement (Mar 2025) | 🟢 Faible |
+| **Finance (Al-Aman Takaful)** | ⚠️ En cours | AAOIFI | Validation Dossier (Juin 2025) | 🟡 Moyen |
+| **Données (Marketplace)** | 🔴 Action Requise | RGPD / LPD | Audit Complet (30 Juin 2025) | 🔴 Élevé |
+| **Continuité (TechForAll)** | 🔴 Action Requise | ISO 22301 | Création PRA (15 Avril 2025) | 🔴 Critique |
+
+> **📊 Taux de conformité global : 73%**  
+> *Plan de correction actif : 2 chantiers critiques en cours (RGPD & PRA) avec échéances bloquantes avant Série A.*
+
+🔗 *[Voir le rapport d'audit détaillé dans le dépôt dashboard-ced-halaltech]*
+
 ### 🕌 Éthique, Souveraineté & Stack Technique
 
 | 🇨🇭 Souveraineté | 🔒 Confidentialité | ⚖️ Conformité | 🤖 Éthique |
