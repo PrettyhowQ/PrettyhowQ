@@ -47,7 +47,9 @@ Le socle technique de la fintech islamique mondiale, **hébergé et exécuté ex
 *   **La Citadelle :** Outils spirituels intégrés.
 *   **Stack :** React, Node.js, PostgreSQL, **Ollama (IA Locale)**.
 
-🔗 *[Lien vers le dépôt CED Core]* | 🔗 *[Lien vers l'organisation SwissYakoubiDev]*
+🔗https://github.com/SwissYakoubiDev/ced-core
+*[Lien vers le dépôt CED Core]* | 🔗https://github.com/SwissYakoubiDev
+*[Lien vers l'organisation SwissYakoubiDev]*
 
 ## 🛡️ Gouvernance & Conformité En Temps Réel
 *Mise à jour : 13 août 2026 (Audit Interne)*
