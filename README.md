@@ -36,6 +36,20 @@ Une architecture organisée en **4 pôles complémentaires** pour garantir indé
 | **@EuriaHub-CED** | 🌱 **Pôle Innovation :** Incubation, R&D (Ollama) & Souveraineté. | 🟢 Opérationnel |
 
 ---
+---
+
+## 🗺️ Navigation Rapide dans l'Écosystème
+Accédez directement aux dépôts clés de l'infrastructure CED HalalTech™ :
+
+| Domaine | Dépôt Principal | Statut | Description |
+| :--- | :--- | :---: | :--- |
+| **🎓 Formation** | [ced-academy-js-fundamentals](https://github.com/PrettyhowQ/ced-academy-js-fundamentals) | 🟢 Actif | Module JS Éthique & Souverain |
+| **🔬 R&D / Lab** | [ced-lab](https://github.com/SwissYakoubiDev/ced-lab) | 🟡 Recherche | IA Super IARP, Blockchain, Green Code |
+| **🛠️ Prototypes** | [Formation-Dev-Club-Empreinte-Digitale](https://github.com/PrettyhowQ/Formation-Dev-Club-Empreinte-Digitale) | 🟠 Beta | Mirror Replit (Full Stack) |
+| **🗄️ Archives** | [Documents-Projets-CEDPro](https://github.com/PrettyhowQ/--Documents-Projets-CEDPro-Learn-Pro) | 🔒 Privé | Spécifications & Historique |
+| **🏦 Core Banking** | [ced-core](https://github.com/SwissYakoubiDev/ced-core) | 🟢 Prod | Infrastructure Bancaire Halal |
+
+*(Note : Certains dépôts sont privés et nécessitent une autorisation d'accès.)*
 
 ## 🚀 Projets Phares & Architecture Souveraine
 
