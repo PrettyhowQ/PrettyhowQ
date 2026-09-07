@@ -38,18 +38,19 @@ Une architecture organisée en **4 pôles complémentaires** pour garantir indé
 ---
 ---
 
-## 🗺️ Navigation Rapide dans l'Écosystème
+### 🗺️ Navigation Rapide dans l'Écosystème
+
 Accédez directement aux dépôts clés de l'infrastructure CED HalalTech™ :
 
 | Domaine | Dépôt Principal | Statut | Description |
-| :--- | :--- | :---: | :--- |
-| **🎓 Formation** | [ced-academy-js-fundamentals](https://github.com/PrettyhowQ/ced-academy-js-fundamentals) | 🟢 Actif | Module JS Éthique & Souverain |
-| **🔬 R&D / Lab** | [ced-lab](https://github.com/SwissYakoubiDev/ced-lab) | 🟡 Recherche | IA Super IARP, Blockchain, Green Code |
-| **🛠️ Prototypes** | [Formation-Dev-Club-Empreinte-Digitale](https://github.com/PrettyhowQ/Formation-Dev-Club-Empreinte-Digitale) | 🟠 Beta | Mirror Replit (Full Stack) |
-| **🗄️ Archives** | [Documents-Projets-CEDPro](https://github.com/PrettyhowQ/--Documents-Projets-CEDPro-Learn-Pro) | 🔒 Privé | Spécifications & Historique |
-| **🏦 Core Banking** | [ced-core](https://github.com/SwissYakoubiDev/ced-core) | 🟢 Prod | Infrastructure Bancaire Halal |
+| :--- | :--- | :--- | :--- |
+| 🎓 Formation | [ced-academy-js-fundamentals](https://github.com/PrettyhowQ/ced-academy-js-fundamentals) | 🟢 Actif | Module JS Éthique & Souverain |
+| 🔬 R&D / Lab | [ced-lab](https://github.com/PrettyhowQ/ced-lab) | 🟡 Recherche | IA Super IARP, Blockchain, Green Code |
+| 🛠️ Prototypes | [Formation-Dev-Club-Empreinte-Digitale](https://github.com/PrettyhowQ/Formation-Dev-Club-Empreinte-Digitale) | 🟠 Beta | Mirror Replit (Full Stack) |
+| 🗄️ Archives | *Privé sur demande* | 🔒 Privé | Spécifications & Historique |
+| 🏦 Core Banking | [SwissYakoubiDev/ced-core](https://github.com/SwissYakoubiDev/ced-core) | 🟢 Prod | Infrastructure Bancaire Halale |
 
-*(Note : Certains dépôts sont privés et nécessitent une autorisation d'accès.)*
+> 💡 **Note :** Le cœur technique bancaire est hébergé sur l'organisation **[SwissYakoubiDev](https://github.com/SwissYakoubiDev)** pour une séparation claire des responsabilités.
 
 ## 🚀 Projets Phares & Architecture Souveraine
 
