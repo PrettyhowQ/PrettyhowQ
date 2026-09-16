@@ -51,18 +51,38 @@ Accédez directement aux dépôts clés de l'infrastructure CED HalalTech™ :
 | 🏦 Core Banking | [SwissYakoubiDev/ced-core](https://github.com/SwissYakoubiDev/ced-core) | 🟢 Prod | Infrastructure Bancaire Halale |
 
 > 💡 **Note :** Le cœur technique bancaire est hébergé sur l'organisation **[SwissYakoubiDev](https://github.com/SwissYakoubiDev)** pour une séparation claire des responsabilités.
-
 ## 🚀 Projets Phares & Architecture Souveraine
 
 ### 🏦 CED Core & Club Empreinte
-Le socle technique de la fintech islamique mondiale, **hébergé et exécuté exclusivement en Suisse**.
-*   **CED Bank :** Banque digitale 0% Riba & API Banking Halal.
-*   **Al-Aman Takaful :** Assurance islamique conforme AAOIFI.
-*   **CED Academy :** Formation à l'IA éthique et responsable.
-*   **La Citadelle :** Outils spirituels intégrés.
-*   **Stack :** React, Node.js, PostgreSQL, **Ollama (IA Locale)**.
+Le socle technique de la fintech islamique mondiale, hébergé et exécuté exclusivement en Suisse.
 
-🔗*[Lien vers le dépôt CED Core]* | 🔗*[Lien vers l'organisation SwissYakoubiDev]*
+- **CED Bank** : Banque digitale 0% Riba & API Banking Halal.
+- **Al-Aman Takaful** : Assurance islamique conforme AAOIFI.
+- **CED Academy** : Formation à l'IA éthique et responsable (41k+ étudiants).
+- **La Citadelle** : Outils spirituels intégrés.
+
+*Stack : React, Node.js, PostgreSQL, Ollama (IA Locale).*
+
+🔗 [Voir le dépôt CED Core](https://github.com/SwissYakoubiDev/ced-core) | 🔗 [Voir SwissYakoubiDev](https://github.com/SwissYakoubiDev)
+
+## 🛡️ Gouvernance & Conformité En Temps Réel
+
+*Mise à jour : Septembre 2026 (Suivi Interne)*
+
+Nous privilégions la réalité opérationnelle aux promesses marketing. Voici l'état exact de notre conformité.
+
+| Domaine | Statut | Certification | Prochaine Échéance | Risque |
+| :--- | :---: | :--- | :--- | :---: |
+| Infrastructure (CED Bank) | ✅ Conforme | ISO 27001, PCI DSS | Renouvellement (Mar 2027) | 🟢 Faible |
+| Continuité (TechForAll) | ✅ Conforme | ISO 22301 (PRA Validé) | Test de bascule (Jan 2027) | 🟢 Résolu |
+| Finance (Al-Aman Takaful) | ⚠️ En cours | AAOIFI | Validation Dossier (Oct 2026) | 🟡 Moyen |
+| Données (Marketplace) | 🔴 Action Requise | RGPD / LPD | **Audit Complet (30 Sept 2026)** | 🟠 Élevé |
+
+> **📊 Taux de conformité global : 88 %**
+> *Succès majeur : Le Plan de Reprise d'Activité (PRA) TechForAll a été validé. Focus actuel sur la finalisation de l'audit RGPD Marketplace avant le 30 septembre.*
+
+🔗 [Voir le dépôt CED Core](https://github.com/SwissYakoubiDev/ced-core)
+🔗 [Voir l'organisation SwissYakoubiDev](https://github.com/SwissYakoubiDev)
 
 ## 🛡️ Gouvernance & Conformité En Temps Réel
 *Mise à jour : 13 août 2026 (Audit Interne)*
