@@ -1,126 +1,98 @@
-# 🇨🇭 Yakoubi Yamina | PrettyhowQ
-### Fondatrice & Architecte de l'écosystème CED HalalTech™
-**IA Éthique & Souveraineté Numérique | Full Stack | DevOps Souverain**
+# 🇨🇭 Yakoubi Yamina | Architecte de l'Écosystème CED HalalTech™
 
-<!-- Badges pointant vers le dépôt PUBLIC pour affichage correct -->
-![GitHub Release](https://img.shields.io/github/v/release/Club-Empreinte-Digitale-CEDHalalTech/ced-org-public?label=Vision%20Publique&color=27ae60)
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/m/Club-Empreinte-Digitale-CEDHalalTech/ced-org-public?label=Activité&color=2980b9)
-![GitHub License](https://img.shields.io/github/license/Club-Empreinte-Digitale-CEDHalalTech/ced-org-public?label=Licence&color=orange)
-![GitHub Repo stars](https://img.shields.io/github/stars/Club-Empreinte-Digitale-CEDHalalTech/ced-org-public?style=social)
+![Version](https://img.shields.io/badge/Core-v2.4.1--AUDITED-blue)
+![License](https://img.shields.io/badge/License-Éthique_&_Charia-red)
+![Hosting](https://img.shields.io/badge/Hosting-Infomaniak_CH-green)
+![Souveraineté](https://img.shields.io/badge/Souveraineté-100%25_Suisse-orange)
+![Status](https://img.shields.io/badge/Status-Production-success)
 
-> *"L'innovation technologique n'a de sens que si elle sert l'humain, respecte son Créateur et préserve son indépendance."*
+**Fondatrice & Lead Architect** | IA Éthique & Souveraineté Numérique | Full Stack & DevOps Souverain
+
+> "L'ordre est la moitié de la foi." | Wasatiyyah (Juste Milieu) dans chaque octet, chaque ligne de code, chaque couleur.
 
 ---
 
-## 📊 L'Écosystème CED HalalTech™
-**L'infrastructure technologique islamique la plus complète et souveraine au monde.**
+## 🌍 Vision & Écosystème
+
+Bienvenue sur le profil officiel de l'architecte derrière **CED HalalTech™**, la première infrastructure technologique islamique 100% souveraine, hébergée en Suisse (Infomaniak) et conforme à la Charia (AAOIFI).
+
+Ce profil n'est pas seulement un portfolio, c'est le point d'entrée vers un écosystème organisé selon **6 Piliers Fondateurs**, garantissant que chaque ligne de code sert une intention spirituelle et technique précise.
+
+### 📊 Métriques Clés (Octobre 2026)
 
 | Métrique | Valeur | Impact Stratégique |
 | :--- | :--- | :--- |
-| **Pages & Modules** | **465+** pages uniques | Couverture totale : Banque, Takaful, Éducation, Média |
-| **Règles Éthiques** | **27 446** règles de Fiqh | Conformité Sharia automatisée (Zéro Riba/Gharar) |
-| **Code Source** | **156 000+** lignes | Maturité technique équivalente à une Scale-up internationale |
-| **Langues** | **91** langues (dont 15 dialectes) | Accessibilité mondiale (Oumma & International) |
-| **Souveraineté** | **100% Suisse** (Infomaniak) | Données à Genève, **Zéro Dépendance GAFAM/Replit/Render** |
+| **Dépôts Actifs** | 40+ | Écosystème complet interconnecté |
+| **Lignes de Code** | 156 000+ | Maturité technique (Scale-up) |
+| **Règles Éthiques** | 27 446 | Conformité Sharia automatisée |
+| **Version Core** | **v2.4.1-AUDITED** | Noyau bancaire stable et validé |
+| **Souveraineté** | 100% | Données à Genève, Zéro Cloud Act |
 
 ---
 
-## 🏢 L'Écosystème Institutionnel
-Une architecture organisée en **4 pôles complémentaires** pour garantir indépendance, conformité et innovation.
+## 🗺️ Navigation : Les 6 Piliers de l'Architecture
 
-| Organisation | Rôle & Mission | Statut |
+Conformément à la Constitution **[CED-Umm-AL-Mashari](https://github.com/PrettyhowQ/CED-Umm-AL-Mashari)**, chaque projet est rattaché à un Pilier.
+
+### 🏳️ Pilier 00 & 01 : Constitution & Identité (Racine)
+*La fondation éthique et spirituelle.*
+- **[CED-Umm-AL-Mashari](https://github.com/PrettyhowQ/CED-Umm-AL-Mashari)** : 🏛️ Constitution, Charte Couleur & Gouvernance.
+- **[ced-master-index](https://github.com/PrettyhowQ/ced-master-index)** : 🗺️ Index Central & Navigation Globale (Privé).
+
+### 🟦 Pilier 02 : Infrastructure Souveraine (Cœur Technique)
+*Le moteur bancaire et la sécurité.*
+- **[SwissYakoubiDev/ced-core](https://github.com/SwissYakoubiDev/ced-core)** : 🏦 Noyau Bancaire "Zéro Riba" (v2.4.1).
+- **[SwissYakoubiDev/prod-fullstack](https://github.com/SwissYakoubiDev/prod-fullstack)** : 🚀 Environnement de Production.
+- **[SwissYakoubiDev/ced-lab](https://github.com/SwissYakoubiDev/ced-lab)** : 🔬 R&D Infra & DevOps Vert.
+
+### 🟩 Pilier 03 : Finance Halal & Stratégie
+*Conformité AAOIFI et modèles économiques.*
+- **[ced-halaltech](https://github.com/Club-Empreinte-Digitale-CEDHalalTech/ced-halaltech)** : 📜 Vitrine Publique & Licence Éthique.
+- *(Modules Internes)* : Calcul Zakat, Takaful (dans `ced-core`).
+
+### 🟦/🟪 Pilier 04 & 05 : Éducation, Humain & Méthodologie
+*Formation de la Oummah et Agile Islamique.*
+- **[ced-org-public](https://github.com/Club-Empreinte-Digitale-CEDHalalTech/ced-org-public)** : 🤝 Communauté (41k+ étudiants).
+- **[ced-academy-js-fundamentals](https://github.com/Club-Empreinte-Digitale-CEDHalalTech/ced-academy-js-fundamentals)** : 🎓 Formation JS Éthique.
+- **[ced-70-modules-catalog](https://github.com/Club-Empreinte-Digitale-CEDHalalTech/ced-70-modules-catalog)** : 📚 Catalogue des Produits.
+
+### 🟧 Pilier 06 : Communication & Oummah
+*Identité visuelle et ouverture.*
+- **[Yakoubi-Yamina-Portfolio-Global](https://github.com/PrettyhowQ/Yakoubi-Yamina-Portfolio-Global)** : 🎨 Portfolio Officiel.
+- **[euria-hub-ced](https://github.com/EuriaHub-CED/euria-hub-ced)** : 💡 Incubateur IA Éthique.
+
+---
+
+## 🛡️ Souveraineté & Éthique Technique
+
+Notre engagement va au-delà du code : c'est une question de foi et d'indépendance.
+
+| Principe | Engagement | Implémentation |
 | :--- | :--- | :--- |
-| **@SwissYakoubiDev** | 🛡️ **Pôle Technique :** Core Banking, IA Locale, Sécurité & Infra. | 🟢 Opérationnel |
-| **@Club-Empreinte-Digitale-CEDHalalTech** | 🤝 **Pôle Communautaire :** Réseau, Partenariats & Déploiement (41k+ étudiants). | 🟢 Opérationnel |
-| **@YakoubiYamina-Institute** | 🎓 **Pôle Recherche :** Éthique, Fiqh technologique & Formation. | 🟢 Opérationnel |
-| **@EuriaHub-CED** | 🌱 **Pôle Innovation :** Incubation, R&D (Ollama) & Souveraineté. | 🟢 Opérationnel |
-
----
----
-
-### 🗺️ Navigation Rapide dans l'Écosystème
-
-Accédez directement aux dépôts clés de l'infrastructure CED HalalTech™ :
-
-| Domaine | Dépôt Principal | Statut | Description |
-| :--- | :--- | :--- | :--- |
-| 🎓 Formation | [ced-academy-js-fundamentals](https://github.com/PrettyhowQ/ced-academy-js-fundamentals) | 🟢 Actif | Module JS Éthique & Souverain |
-| 🔬 R&D / Lab | [ced-lab](https://github.com/PrettyhowQ/ced-lab) | 🟡 Recherche | IA Super IARP, Blockchain, Green Code |
-| 🛠️ Prototypes | [Formation-Dev-Club-Empreinte-Digitale](https://github.com/PrettyhowQ/Formation-Dev-Club-Empreinte-Digitale) | 🟠 Beta | Mirror Replit (Full Stack) |
-| 🗄️ Archives | *Privé sur demande* | 🔒 Privé | Spécifications & Historique |
-| 🏦 Core Banking | [SwissYakoubiDev/ced-core](https://github.com/SwissYakoubiDev/ced-core) | 🟢 Prod | Infrastructure Bancaire Halale |
-
-> 💡 **Note :** Le cœur technique bancaire est hébergé sur l'organisation **[SwissYakoubiDev](https://github.com/SwissYakoubiDev)** pour une séparation claire des responsabilités.
-## 🚀 Projets Phares & Architecture Souveraine
-
-### 🏦 CED Core & Club Empreinte
-Le socle technique de la fintech islamique mondiale, hébergé et exécuté exclusivement en Suisse.
-
-- **CED Bank** : Banque digitale 0% Riba & API Banking Halal.
-- **Al-Aman Takaful** : Assurance islamique conforme AAOIFI.
-- **CED Academy** : Formation à l'IA éthique et responsable (41k+ étudiants).
-- **La Citadelle** : Outils spirituels intégrés.
-
-*Stack : React, Node.js, PostgreSQL, Ollama (IA Locale).*
-
-🔗 [Voir le dépôt CED Core](https://github.com/SwissYakoubiDev/ced-core) | 🔗 [Voir SwissYakoubiDev](https://github.com/SwissYakoubiDev)
-
-## 🛡️ Gouvernance & Conformité En Temps Réel
-
-*Mise à jour : Septembre 2026 (Suivi Interne)*
-
-Nous privilégions la réalité opérationnelle aux promesses marketing. Voici l'état exact de notre conformité.
-
-| Domaine | Statut | Certification | Prochaine Échéance | Risque |
-| :--- | :---: | :--- | :--- | :---: |
-| Infrastructure (CED Bank) | ✅ Conforme | ISO 27001, PCI DSS | Renouvellement (Mar 2027) | 🟢 Faible |
-| Continuité (TechForAll) | ✅ Conforme | ISO 22301 (PRA Validé) | Test de bascule (Jan 2027) | 🟢 Résolu |
-| Finance (Al-Aman Takaful) | ⚠️ En cours | AAOIFI | Validation Dossier (Oct 2026) | 🟡 Moyen |
-| Données (Marketplace) | 🔴 Action Requise | RGPD / LPD | **Audit Complet (30 Sept 2026)** | 🟠 Élevé |
-
-> **📊 Taux de conformité global : 88 %**
-> *Succès majeur : Le Plan de Reprise d'Activité (PRA) TechForAll a été validé. Focus actuel sur la finalisation de l'audit RGPD Marketplace avant le 30 septembre.*
-
-🔗 [Voir le dépôt CED Core](https://github.com/SwissYakoubiDev/ced-core)
-🔗 [Voir l'organisation SwissYakoubiDev](https://github.com/SwissYakoubiDev)
-
-## 🛡️ Gouvernance & Conformité En Temps Réel
-*Mise à jour : 13 août 2026 (Audit Interne)*
-
-Nous privilégions la **réalité opérationnelle** aux promesses marketing. Voici l'état exact de notre conformité pour les investisseurs et partenaires.
-
-| Domaine | Statut | Certification | Prochaine Échéance | Risque |
-| :--- | :---: | :--- | :--- | :---: |
-| **Infrastructure (CED Bank)** | ✅ Conforme | ISO 27001, PCI DSS | Renouvellement (Mar 2027) | 🟢 Faible |
-| **Continuité (TechForAll)** | ✅ **Conforme** | **ISO 22301 (PRA Validé)** | Test de bascule (Jan 2027) | 🟢 **Résolu** |
-| **Finance (Al-Aman Takaful)** | ⚠️ En cours | AAOIFI | Validation Dossier (Oct 2026) | 🟡 Moyen |
-| **Données (Marketplace)** | 🔴 Action Requise | RGPD / LPD | Audit Complet (30 Sept 2026) | 🟠 Élevé |
-
-> **📊 Taux de conformité global : 88 %** *(+15% depuis avril 2025)*  
-> *Succès majeur : Le Plan de Reprise d'Activité (PRA) TechForAll a été validé le 13 août 2026. Focus actuel sur la finalisation de l'audit RGPD Marketplace.*
-
-🔗 *[Voir le rapport d'audit détaillé et le PRA dans le dépôt dashboard-ced-halaltech]*
-
-### 🕌 Éthique, Souveraineté & Stack Technique
-
-| 🇨🇭 Souveraineté | 🔒 Confidentialité | ⚖️ Conformité | 🤖 Éthique |
-| :--- | :--- | :--- | :--- |
-| **Hébergé 100% Suisse** | **RGPD & LPD Stricts** | **Finance Halal (AAOIFI)** | **IA Humano-centrée** |
-| Infomaniak (Genève) | Chiffrement de bout en bout | Zéro Riba / Zéro Gharar | Transparence Algorithmique |
-| **Zéro Cloud US** | Backups Suisses | Audit Charia intégré | Pas de données d'entraînement |
+| **🇨🇭 Souveraineté** | 100% Suisse | Hébergement **Infomaniak** (Genève). Zéro Cloud Act. |
+| **🕌 Conformité** | Charia (AAOIFI) | Moteur "Zéro Riba/Gharar" natif dans le Core. |
+| **🔒 Confidentialité** | LPD / RGPD Strict | Chiffrement de bout en bout, données locales. |
+| **🤖 Éthique IA** | Humano-centrée | IA Locale (Ollama), pas de données d'entraînement externes. |
 
 **Stack Principale :** `TypeScript` `Node.js` `React` `Python` `Ollama` `PostgreSQL` `Docker`
 **Infrastructure :** `Infomaniak Cloud` `kSuite` `Swiss Backup`
 
 ---
 
-## 📬 Contact & Réseaux
+## 📬 Contact & Liens Officiels
 
-📧 **Email Technique :** swissyakoubidev.ch@ik.me
-📧 **Direction :** direction@ced-halaltech.ch
-💼 **LinkedIn :** [Yamina Yakoubi](https://linkedin.com/in/yamina-yakoubi) 
-🌐 **Site Web :** [ced-halaltech.ch](https://ced-halaltech.ch)
+Pour toute demande professionnelle, partenariat ou audit :
 
-> *"Qu'Allah mette la Barakah dans chaque ligne de code, dans chaque architecture souveraine et dans chaque projet partagé ici. Bi Hawlli Allah."*
+- **📧 Direction :** [direction@ced-halaltech.ch](mailto:direction@ced-halaltech.ch)
+- **📧 Technique :** [swissyakoubidev.ch@ik.me](mailto:swissyakoubidev.ch@ik.me)
+- **🌐 Site Web :** [ced-halaltech.ch](https://ced-halaltech.ch)
+- **💼 LinkedIn :** [Yamina Yakoubi](https://linkedin.com/in/yamina-yakoubi)
 
-**Incha Allah wa bi hawli Allah**
+---
+
+## 🤲 Doua de Clôture
+
+"Seigneur, mets la Barakah dans cette organisation. Fais que chaque dossier rangé, chaque lien cliqué et chaque ligne de code respectant cette charte soit une lumière pour nous et pour la Oummah. Préserve-nous du chaos et accorde-nous la clarté du Juste Milieu. Amin."
+
+© 2026 CED HalalTech™ | Genève, Suisse | 100% Souverain (Infomaniak)
+*Développé avec Ikhlas (sincérité) et Wasatiyyah (Juste Milieu).*
