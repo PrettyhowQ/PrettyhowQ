@@ -20,14 +20,14 @@ Ce profil n'est pas seulement un portfolio, c'est le point d'entrée vers un éc
 
 ### 📊 Métriques Clés (Octobre 2026)
 
-| Métrique | Valeur | Impact Stratégique |
-| :--- | :--- | :--- |
-| **Dépôts Actifs** | 40+ | Écosystème complet interconnecté |
-| **Lignes de Code** | 156 000+ | Maturité technique (Scale-up) |
-| **Règles Éthiques** | 27 446 | Conformité Sharia automatisée |
-| **Version Core** | **v2.4.1-AUDITED** | Noyau bancaire stable et validé |
-| **Souveraineté** | 100% | Données à Genève, Zéro Cloud Act |
-
+|Métrique|Valeur|Impact Stratégique|
+|:---|:---|:---|
+|**Dépôts Actifs**|**40+ **(Écosystème)|Architecture complète interconnectée (Public & Privé).|
+|**Lignes de Code**|**156 000+**|Maturité technique (Scale-up, Prêt Série A).|
+|**Utilisateurs Actifs**|**49 100**|Communauté réelle (Éducation + Fintech).|
+|**Règles Éthiques**|**27 446**|Conformité Sharia automatisée (Zéro Riba/Gharar).|
+|**Version Core**|**v2.5.0-AUDITED**|Noyau bancaire stable et validé (Référence unique).|
+|**Souveraineté**|**100%**|Données à Genève, Zéro Cloud Act, Infomaniak.|
 ---
 
 ## 🗺️ Navigation : Les 6 Piliers de l'Architecture
@@ -41,7 +41,7 @@ Conformément à la Constitution **[CED-Umm-AL-Mashari](https://github.com/Prett
 
 ### 🟦 Pilier 02 : Infrastructure Souveraine (Cœur Technique)
 *Le moteur bancaire et la sécurité.*
-- **[SwissYakoubiDev/ced-core](https://github.com/SwissYakoubiDev/ced-core)** : 🏦 Noyau Bancaire "Zéro Riba" (v2.4.1).
+- - **[SwissYakoubiDev/ced-core](https://github.com/SwissYakoubiDev/ced-core)** : 🏦 Noyau Bancaire "Zéro Riba" (v2.5.0-AUDITED).)
 - **[SwissYakoubiDev/prod-fullstack](https://github.com/SwissYakoubiDev/prod-fullstack)** : 🚀 Environnement de Production.
 - **[SwissYakoubiDev/ced-lab](https://github.com/SwissYakoubiDev/ced-lab)** : 🔬 R&D Infra & DevOps Vert.
 
@@ -59,7 +59,7 @@ Conformément à la Constitution **[CED-Umm-AL-Mashari](https://github.com/Prett
 ### 🟧 Pilier 06 : Communication & Oummah
 *Identité visuelle et ouverture.*
 - **[Yakoubi-Yamina-Portfolio-Global](https://github.com/PrettyhowQ/Yakoubi-Yamina-Portfolio-Global)** : 🎨 Portfolio Officiel.
-- **[euria-hub-ced](https://github.com/EuriaHub-CED/euria-hub-ced)** : 💡 Incubateur IA Éthique.
+- **[euria-hub-infomaniak](https://github.com/PrettyhowQ/euria-hub-infomaniak)** : 💡 Incubateur IA Éthique.
 
 ---
 
