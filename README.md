@@ -1,8 +1,7 @@
-# 🇨🇭 Yakoubi Yamina | Architecte de l'Écosystème CED HalalTech™
-
+# 🇨🇭 Yakoubi Yamina | Architecte de l'Écosystème CED 
 ![Version](https://img.shields.io/badge/core-v2.5.0--AUDITED-001f3f)
-![Souverainet%C3%A9](https://img.shields.io/badge/souverainet%C3%A9-100%25%20Suisse-2ECC40)
-![Conformit%C3%A9](https://img.shields.io/badge/AAOIFI-Z%C3%A9ro%20Riba-FF851B)
+![Souveraineté](https://img.shields.io/badge/souverainet%C3%A9-100%25%20Suisse-2ECC40)
+![Conformité](https://img.shields.io/badge/AAOIFI-Z%C3%A9ro%20Riba-FF851B)
 ![Statut](https://img.shields.io/badge/statut-Production-2ECC40)
 
 > Fondatrice & Lead Architect | IA Éthique & Souveraineté Numérique | Full Stack & DevOps Souverain
